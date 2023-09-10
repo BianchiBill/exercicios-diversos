@@ -1,0 +1,8 @@
+export { highNumber, sumArray } from './array'
+export { formatString } from './simple_types'
+export { person } from './objects-and-interfaces'
+export { Produto } from './class'
+export { successOrError } from './advanced-types'
+export { inverterArray } from './generics'
+export { promiseAsyncAwait } from './promises-async-await'
+export { getUserData } from './api-integrate'
