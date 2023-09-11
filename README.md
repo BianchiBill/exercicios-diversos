@@ -1,9 +1,10 @@
 # Exercícios em JavaScript e TypeScript
 
-### Este repositório esta sobre constante atualização
+## Este repositório esta sobre constante atualização
 
 ### Este repositório possui exercícios e desafios que eu utilizei para mim. Espero que possa ser de utilidade a qualquer um.
-### Muitos exercícios estou incluindo antes das respostas, isso se deve a como estou pensanndo, ou busco um desafio, ou um amigo pede ajuda para estudar e vou adicionando as respostas conforme a conclusão.
+
+Muitos exercícios estou incluindo antes das respostas, isso se deve a como estou pensando, ou busco um desafio, ou um amigo pede ajuda para estudar e vou adicionando as respostas conforme a conclusão.
 
 Neste repositório, você encontrará dois tipos de exercícios projetados para aprimorar suas habilidades em JavaScript e TypeScript. Esses exercícios estão organizados em duas pastas distintas, cada uma focada em uma das tecnologias. Vamos dar uma olhada mais detalhada em cada uma delas.
 
