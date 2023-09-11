@@ -48,4 +48,4 @@ Todas as repostas foram yarn
 13. **Microserviços**
     Divida sua aplicação em microserviços independentes e implemente a comunicação entre eles usando REST, gRPC ou outra tecnologia de sua escolha.
 
-Lembre-se de que se tornar um desenvolvedor sênior em Node.js não se resume apenas a resolver exercícios, mas também a construir projetos reais, trabalhar em equipes, lidar com desafios do mundo real e manter-se atualizado com as melhores práticas da comunidade Node.js. Portanto, à medida que você progride, tente aplicar essas habilidades em projetos práticos.
+Lembre-se de que se tornar um desenvolvedor sênior em Node.js não se resume apenas a resolver exercícios, mas também a construir projetos reais, trabalhar em equipes, lidar com desafios do mundo real e manter-se atualizado. Portanto, à medida que você progride, tente aplicar essas habilidades em projetos práticos.
