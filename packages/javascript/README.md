@@ -28,12 +28,12 @@ Todas as repostas foram yarn
 7. **Banco de Dados**
    Conecte sua aplicação Node.js a um banco de dados (por exemplo, MongoDB ou MySQL) e crie operações CRUD (Create, Read, Update, Delete) para um modelo de dados simples.
 
-### Exercícios Avançados:
+<!-- ### Exercícios Avançados:
 
 8. **Websockets**
-   Implemente um chat em tempo real usando Websockets (por exemplo, com o pacote Socket.io).
+   Implemente um chat em tempo real usando Websockets (por exemplo, com o pacote Socket.io). -->
 
-9. **Middleware Customizado**
+<!-- 9. **Middleware Customizado**
    Crie middleware personalizado para sua aplicação Express.js. Isso pode incluir middleware de registro de solicitações, controle de acesso, manipulação de erros, etc.
 
 10. **Escalabilidade e Desempenho**
@@ -46,6 +46,6 @@ Todas as repostas foram yarn
     Aprofunde-se na segurança da sua aplicação Node.js, aprendendo sobre proteção contra ataques comuns, como XSS, CSRF e injeção de SQL.
 
 13. **Microserviços**
-    Divida sua aplicação em microserviços independentes e implemente a comunicação entre eles usando REST, gRPC ou outra tecnologia de sua escolha.
+    Divida sua aplicação em microserviços independentes e implemente a comunicação entre eles usando REST, gRPC ou outra tecnologia de sua escolha. -->
 
 Lembre-se de que se tornar um desenvolvedor sênior em Node.js não se resume apenas a resolver exercícios, mas também a construir projetos reais, trabalhar em equipes, lidar com desafios do mundo real e manter-se atualizado. Portanto, à medida que você progride, tente aplicar essas habilidades em projetos práticos.
