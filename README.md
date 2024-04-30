@@ -1,4 +1,4 @@
-# Exercícios em JavaScript e TypeScript
+# Exercícios em Regex, JavaScript, TypeScript
 
 ## Este repositório esta sobre constante atualização
 
@@ -7,6 +7,11 @@
 Muitos exercícios estou incluindo antes das respostas, isso se deve a como estou pensando, ou busco um desafio, ou um amigo pede ajuda para estudar e vou adicionando as respostas conforme a conclusão.
 
 Neste repositório, você encontrará dois tipos de exercícios projetados para aprimorar suas habilidades em JavaScript e TypeScript. Esses exercícios estão organizados em duas pastas distintas, cada uma focada em uma das tecnologias. Vamos dar uma olhada mais detalhada em cada uma delas.
+
+## **Exercícios Regex**
+
+[Clique aqui para ir direto aos exercícios](https://github.com/BianchiBill/exercicios-diversos/blob/main/packages/regex/README.md)
+
 
 ## **Exercícios em JavaScript**
 
